@@ -1,0 +1,9 @@
+[
+  { "name": "Bagmati", "cities": ["Kathmandu", "Lalitpur"] },
+  { "name": "Gandaki", "cities": ["Pokhara", "Gorkha"] },
+  { "name": "Karnali", "cities": ["birendranagar", "Khalanga"] },
+  { "name": "Koshi", "cities": ["Gaighat", "Biratnagar"] },
+  { "name": "Lumbini", "cities": ["Siddharthanagar", "Tansen"] },
+  { "name": "Madhesh", "cities": ["Janakpur", "Lahan"] },
+  { "name": "Sudurpashchim", "cities": ["Dhangadhi", "Tikapur"] }
+]
