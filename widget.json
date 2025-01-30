@@ -1,0 +1,322 @@
+[
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 1",
+        "detail": "detail about sub-type 1",
+        "widgets": [
+          {
+            "title": "widget 1",
+            "detail": "detail about widget 1",
+            "meta_key": "widget_1",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 1",
+        "detail": "detail about sub-type 1",
+        "widgets": [
+          {
+            "title": "widget 2",
+            "detail": "detail about widget 2",
+            "meta_key": "widget_2",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 2",
+        "detail": "detail about sub-type 2",
+        "widgets": [
+          {
+            "title": "widget 3",
+            "detail": "detail about widget 3",
+            "meta_key": "widget_3",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 2",
+        "detail": "detail about sub-type 2",
+        "widgets": [
+          {
+            "title": "widget 4",
+            "detail": "detail about widget 4",
+            "meta_key": "widget_4",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 3",
+        "detail": "detail about sub-type 3",
+        "widgets": [
+          {
+            "title": "widget 5",
+            "detail": "detail about widget 5",
+            "meta_key": "widget_5",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 3",
+        "detail": "detail about sub-type 3",
+        "widgets": [
+          {
+            "title": "widget 6",
+            "detail": "detail about widget 6",
+            "meta_key": "widget_6",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 4",
+        "detail": "detail about sub-type 4",
+        "widgets": [
+          {
+            "title": "widget 7",
+            "detail": "detail about widget 7",
+            "meta_key": "widget_7",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 4",
+        "detail": "detail about sub-type 4",
+        "widgets": [
+          {
+            "title": "widget 8",
+            "detail": "detail about widget 8",
+            "meta_key": "widget_8",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 5",
+        "detail": "detail about sub-type 5",
+        "widgets": [
+          {
+            "title": "widget 9",
+            "detail": "detail about widget 9",
+            "meta_key": "widget_9",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "widget type 1",
+    "detail": "detail about widget type 1",
+    "types": [
+      {
+        "title": "widget sub-type 5",
+        "detail": "detail about sub-type 5",
+        "widgets": [
+          {
+            "title": "widget 10",
+            "detail": "detail about widget 10",
+            "meta_key": "widget_10",
+            "data": [
+              {
+                "label": "title",
+                "type": ["string"],
+                "required": true,
+                "default": ""
+              },
+              {
+                "label": "value",
+                "type": ["number", "string"],
+                "required": true,
+                "default": ""
+              }
+            ],
+            "config": {}
+          }
+        ]
+      }
+    ]
+  }
+]
