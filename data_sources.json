@@ -1,0 +1,19 @@
+{
+    "db": [
+      { "title": "MySQL", "type": "sql" },
+      { "title": "PGSQL", "type": "sql" },
+      { "title": "Oracle", "type": "sql" },
+      { "title": "SQL Server", "type": "sql" },
+      { "title": "SQLite", "type": "sql" },
+      { "title": "MongoDB", "type": "nosql" },
+      { "title": "Cassandra", "type": "nosql" }
+    ],
+    "connection_type": [
+      { "title": "DB", "is_db": true },
+      { "title": "Excel", "is_db": false },
+      { "title": "Rest API", "is_db": false },
+      { "title": "CSV", "is_db": false },
+      { "title": "JSON", "is_db": false }
+    ]
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "alert_types": ["Success", "Info", "Warn", "Error", "Critical"],
+    "event_types": [
+      {
+        "title": "Test Event",
+        "meta_key": "test_event",
+        "detail": "This is a test event.",
+        "status": true
+      }
+    ]
+  }
+  

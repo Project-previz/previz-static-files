@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Role Group",
+    "detail": "Roles with this group can view, create, update and delete roles.",
+    "permissions": [
+      {
+        "title": "View Role",
+        "meta_key": "view_role",
+        "detail": "Permission to view roles list."
+      },
+      {
+        "title": "Create Role",
+        "meta_key": "create_role",
+        "detail": "Permission to create a new role."
+      },
+      {
+        "title": "Update Role",
+        "meta_key": "update_role",
+        "detail": "Permission to update a role."
+      },
+      {
+        "title": "Delete Role",
+        "meta_key": "delete_role",
+        "detail": "Permission to delete any role."
+      }
+    ]
+  },
+  {
+    "title": "User Group",
+    "detail": "Roles with this group can process all the functions related to users.",
+    "permissions": [
+      {
+        "title": "View User",
+        "meta_key": "view_user",
+        "detail": "Permission to view users list and their details."
+      },
+      {
+        "title": "Create User",
+        "meta_key": "create_user",
+        "detail": "Permission to create a new user."
+      },
+      {
+        "title": "Update User",
+        "meta_key": "update_user",
+        "detail": "Permission to update a user detail."
+      },
+      {
+        "title": "Deactivate User",
+        "meta_key": "deactivate_user",
+        "detail": "Permission to deactivate any user's account."
+      },
+      {
+        "title": "Change User's Role",
+        "meta_key": "change_users_role",
+        "detail": "Permission to change role of a user e.g. promote to Super Admin"
+      }
+    ]
+  },
+  {
+    "title": "Data Source Group",
+    "detail": "Roles with this group can process all the functions related to data sources.",
+    "permissions": [
+      {
+        "title": "View Data Source",
+        "meta_key": "view_data_source",
+        "detail": "Permission to view data source list and their details."
+      },
+      {
+        "title": "Add Data Source",
+        "meta_key": "add_data_source",
+        "detail": "Permission to add a new data source."
+      },
+      {
+        "title": "Update Data Source",
+        "meta_key": "update_data_source",
+        "detail": "Permission to update a data source."
+      },
+      {
+        "title": "Delete Data Source",
+        "meta_key": "delete_data_source",
+        "detail": "Permission to delete any data source."
+      },
+      {
+        "title": "Test Data Source Connection",
+        "meta_key": "test_data_source_connection",
+        "detail": "Permission to test if a data source is successfully connected."
+      }
+    ]
+  },
+  {
+    "title": "Utility Group",
+    "detail": "Roles with this group can view, create, update and delete user's Department and Position.",
+    "permissions": [
+      {
+        "title": "View Department",
+        "meta_key": "view_department",
+        "detail": "Permission to view departments list."
+      },
+      {
+        "title": "Add Department",
+        "meta_key": "add_department",
+        "detail": "Permission to add a new department."
+      },
+      {
+        "title": "Update Department",
+        "meta_key": "update_department",
+        "detail": "Permission to update a department."
+      },
+      {
+        "title": "Delete Department",
+        "meta_key": "delete_department",
+        "detail": "Permission to delete any department."
+      },
+      {
+        "title": "View Designation",
+        "meta_key": "view_designation",
+        "detail": "Permission to view designations list."
+      },
+      {
+        "title": "Add Designation",
+        "meta_key": "add_designation",
+        "detail": "Permission to add a new designation."
+      },
+      {
+        "title": "Update Designation",
+        "meta_key": "update_designation",
+        "detail": "Permission to update a designation."
+      },
+      {
+        "title": "Delete Designation",
+        "meta_key": "delete_designation",
+        "detail": "Permission to delete any designation."
+      }
+    ]
+  }
+]
