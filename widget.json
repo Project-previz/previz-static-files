@@ -16,13 +16,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
@@ -48,13 +48,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
@@ -80,13 +80,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
@@ -112,13 +112,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
@@ -144,13 +144,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
@@ -176,13 +176,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
@@ -208,13 +208,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
@@ -240,13 +240,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
@@ -272,13 +272,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
@@ -304,13 +304,13 @@
               "data": [
                 {
                   "label": "title",
-                  "type": ["string"],
+                  "type": "string",
                   "required": true,
                   "default": ""
                 },
                 {
                   "label": "value",
-                  "type": ["number", "string"],
+                  "type": "number",
                   "required": true,
                   "default": ""
                 }
