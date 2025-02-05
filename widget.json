@@ -43,17 +43,17 @@
       ]
     },
     {
-      "title": "widget type 1",
-      "detail": "detail about widget type 1",
+      "title": "widget type 2",
+      "detail": "detail about widget type 2",
       "types": [
         {
-          "title": "widget sub-type 1",
-          "detail": "detail about sub-type 1",
+          "title": "widget sub-type 2",
+          "detail": "detail about sub-type 2",
           "widgets": [
             {
-              "title": "widget 1",
+              "title": "widget 2",
               "detail": "detail about widget 1",
-              "meta_key": "widget_1",
+              "meta_key": "widget_2",
               "data": [
                 {
                   "label": "Title",
