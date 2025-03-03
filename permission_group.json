@@ -22,6 +22,11 @@
         "title": "Delete Role",
         "meta_key": "delete_role",
         "detail": "Permission to delete any role."
+      },
+      {
+        "title": "View Roles Count",
+        "meta_key": "view_roles_count",
+        "detail": "Permission to view count of roles"
       }
     ]
   },
@@ -53,6 +58,11 @@
         "title": "Change User's Role",
         "meta_key": "change_users_role",
         "detail": "Permission to change role of a user e.g. promote to Super Admin"
+      },
+      {
+        "title": "Update User Detail",
+        "meta_key": "update_user_detail",
+        "detail": "Permission to update specific user details."
       }
     ]
   },
@@ -84,6 +94,11 @@
         "title": "Test Data Source Connection",
         "meta_key": "test_data_source_connection",
         "detail": "Permission to test if a data source is successfully connected."
+      },
+      {
+        "title": "View Source Connection Data",
+        "meta_key": "view_source_connection_data",
+        "detail": "Permission to view source connection data."
       }
     ]
   },
@@ -112,24 +127,153 @@
         "detail": "Permission to delete any department."
       },
       {
-        "title": "View Designation",
-        "meta_key": "view_designation",
-        "detail": "Permission to view designations list."
+        "title": "View Position",
+        "meta_key": "view_position",
+        "detail": "Permission to view positions list."
       },
       {
-        "title": "Add Designation",
-        "meta_key": "add_designation",
-        "detail": "Permission to add a new designation."
+        "title": "Add Position",
+        "meta_key": "add_position",
+        "detail": "Permission to add a new position."
       },
       {
-        "title": "Update Designation",
-        "meta_key": "update_designation",
-        "detail": "Permission to update a designation."
+        "title": "Update Position",
+        "meta_key": "update_position",
+        "detail": "Permission to update a position."
       },
       {
-        "title": "Delete Designation",
-        "meta_key": "delete_designation",
-        "detail": "Permission to delete any designation."
+        "title": "Delete Position",
+        "meta_key": "delete_position",
+        "detail": "Permission to delete any position."
+      },
+      {
+        "title": "View Application Config",
+        "meta_key": "view_application_config",
+        "detail": "Permission to view application configuration."
+      }
+    ]
+  },
+  {
+    "title": "Permission Group",
+    "detail": "Roles with this group can manage permissions.",
+    "permissions": [
+      {
+        "title": "View Permissions List",
+        "meta_key": "view_permissions_list",
+        "detail": "Permission to view all permissions list."
+      },
+      {
+        "title": "View Permission Status",
+        "meta_key": "view_permission_status",
+        "detail": "Permission to view permission status for a role."
+      },
+      {
+        "title": "Update Permission Status",
+        "meta_key": "update_permission_status",
+        "detail": "Permission to update permission status."
+      }
+    ]
+  },
+  {
+    "title": "Widget Group",
+    "detail": "Roles with this group can manage widgets and schemas.",
+    "permissions": [
+      {
+        "title": "View Widget Schema",
+        "meta_key": "view_widget_schema",
+        "detail": "Permission to view widget schemas."
+      },
+      {
+        "title": "Create Widget Schema",
+        "meta_key": "create_widget_schema",
+        "detail": "Permission to create widget schema."
+      },
+      {
+        "title": "Update Widget Schema",
+        "meta_key": "update_widget_schema",
+        "detail": "Permission to update widget schema."
+      },
+      {
+        "title": "Delete Widget Schema",
+        "meta_key": "delete_widget_schema",
+        "detail": "Permission to delete widget schema."
+      },
+      {
+        "title": "View Widget Type List",
+        "meta_key": "view_widget_type_list",
+        "detail": "Permission to view widget type list."
+      },
+      {
+        "title": "View Widget Sub-Type List",
+        "meta_key": "view_widget_sub_type_list",
+        "detail": "Permission to view widget sub-type list."
+      },
+      {
+        "title": "View Widget List",
+        "meta_key": "view_widget_list",
+        "detail": "Permission to view widget list."
+      },
+      {
+        "title": "View Widget Detail",
+        "meta_key": "view_widget_detail",
+        "detail": "Permission to view widget detail."
+      }
+    ]
+  },
+  {
+    "title": "Folder Group",
+    "detail": "Roles with this group can manage folders.",
+    "permissions": [
+      {
+        "title": "View Folder",
+        "meta_key": "view_folder",
+        "detail": "Permission to view folders."
+      },
+      {
+        "title": "Create Folder",
+        "meta_key": "create_folder",
+        "detail": "Permission to create a new folder."
+      },
+      {
+        "title": "Update Folder",
+        "meta_key": "update_folder",
+        "detail": "Permission to update a folder."
+      },
+      {
+        "title": "Delete Folder",
+        "meta_key": "delete_folder",
+        "detail": "Permission to delete a folder."
+      }
+    ]
+  },
+  {
+    "title": "Account Management Group",
+    "detail": "Roles with this group can manage account related operations.",
+    "permissions": [
+      {
+        "title": "Login",
+        "meta_key": "login",
+        "detail": "Permission to log into the system."
+      },
+      {
+        "title": "Request Password Reset",
+        "meta_key": "request_password_reset",
+        "detail": "Permission to request a password reset."
+      },
+      {
+        "title": "Reset Password",
+        "meta_key": "reset_password",
+        "detail": "Permission to reset a password using verification token."
+      },
+      {
+        "title": "Refresh Token",
+        "meta_key": "refresh_token",
+        "detail": "Permission to refresh authentication token."
+      },
+      {
+        "title": "Reset Password with Code",
+        "meta_key": "reset_password_code",
+        "detail": "Permission to reset password using a code."
       }
     ]
   }
