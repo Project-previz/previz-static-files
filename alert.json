@@ -1,12 +1,47 @@
 {
-    "alert_types": ["Success", "Info", "Warn", "Error", "Critical"],
-    "event_types": [
-      {
-        "title": "Test Event",
-        "meta_key": "test_event",
-        "detail": "This is a test event.",
-        "status": true
-      }
-    ]
-  }
-  
+  "alert_types": ["Success", "Info", "Warn", "Error", "Critical"],
+  "event_types": [
+    {
+      "title": "Test Event",
+      "meta_key": "test_event",
+      "detail": "This is a test event.",
+      "status": true
+    },
+    {
+      "title": "Login Success",
+      "meta_key": "login_success",
+      "detail": "User logged in successfully",
+      "status": true
+    },
+    {
+      "title": "Password Reset Complete",
+      "meta_key": "password_reset_complete",
+      "detail": "User password reset successfully",
+      "status": true
+    },
+    {
+      "title": "Permission Update",
+      "meta_key": "permission_update",
+      "detail": "Permissions updated for role",
+      "status": true
+    },
+    {
+      "title": "User Created",
+      "meta_key": "user_created",
+      "detail": "New user created",
+      "status": true
+    },
+    {
+      "title": "User Deleted",
+      "meta_key": "user_deleted",
+      "detail": "User has been deleted",
+      "status": true
+    },
+    {
+      "title": "Role Change",
+      "meta_key": "role_change",
+      "detail": "User role changed",
+      "status": true
+    }
+  ]
+}
